@@ -1,0 +1,18 @@
+FC Ingolstadt 04, 13, 4, 6
+Hamburg, 9, 8, 10
+SV Darmstadt 98, 9, 8, 9
+Mainz, 9, 6, 9
+FC Augsburg, 4, 7, 12
+Werder Bremen, 6, 7, 12
+Borussia Moenchengladbach, 6, 9, 15
+Hoffenheim, 5, 8, 12
+VfB Stuttgart, 4, 9, 17
+Schalke 04, 16, 14, 3 
+Hannover 96, 2, 6, 18
+Borrusia Dortmund, 16, 15, 4 
+Bayern Munich, 18, 18, 2
+Bayer Leverkusen, 14, 11, 8
+Eintracht Frankfurt, 9, 13, 9
+Hertha BSC Berlin, 14, 5, 4
+1. FC Cologne, 13, 10, 10
+VfB Wolfsburg, 14, 10, 6
